@@ -1,5 +1,8 @@
 
-//  Miles.js (c) Kari Laitinen
+// This has been modified in the ConflictA branch 
+
+
+// Miles.js (c) Kari Laitinen
 
 //  http://www.naturalprogramming.com
 
