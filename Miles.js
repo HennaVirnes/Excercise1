@@ -1,6 +1,6 @@
 
 // This has been modified in the ConflictA branch 
-//I modify line three!!!
+//I modify line three!!! // THIS IS A NEW MODIFICATION IN LINE THREEE!!!!
 
 // Miles.js (c) Kari Laitinen
 
