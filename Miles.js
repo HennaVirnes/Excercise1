@@ -11,7 +11,9 @@
     It seems that you cannot format much with the standard
     util.format() function.
 
-*/
+    HERE is a new modification for ConflictB
+
+*/ 
 const tools = require( "./externals/tools.js" ) ; // for sprintf() and printf()
 
 process.stdout.write( "\n  This program prints conversion tables." 
